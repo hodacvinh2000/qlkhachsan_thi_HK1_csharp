@@ -1,0 +1,6 @@
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\bin\Debug\MODEL.dll
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\bin\Debug\MODEL.pdb
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\obj\Debug\MODEL.csproj.AssemblyReference.cache
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\obj\Debug\MODEL.csproj.CoreCompileInputs.cache
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\obj\Debug\MODEL.dll
+D:\kì 1 năm 4\DOTNET\thi\QL_Phong_KhachSan\MODEL\obj\Debug\MODEL.pdb
